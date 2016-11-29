@@ -2,7 +2,7 @@
 library(shiny)
 
 # Read in data
-setwd('~/Documents/info-201/m15-special-topics/demo-1')
+setwd('~/Desktop/Informatics/m15-special-topics/demo-1')
 source('decision_tree.R')
 shinyUI(fluidPage(
   # UI for the traffic simulation
